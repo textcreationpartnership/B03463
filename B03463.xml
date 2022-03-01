@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good Christians complaint; or, Poor charity's languishing lamentation in a late long and tedious winter; seeing pride, envy, hatred, malice, with many other vices, nourish'd like darlings in the bosome of mankind; whilst love and mercy, truth and charity, did unregarded wander like strange pilgrims. Concluding with a seasonable exhortation to a Christian life. / Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03463</idno>
+            <idno type="STC">Wing G1040</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[196]</idno>
+            <idno type="EEBO-CITATION">99886957</idno>
+            <idno type="PROQUEST">ocm99886957</idno>
+            <idno type="VID">181519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181519)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[197])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good Christians complaint; or, Poor charity's languishing lamentation in a late long and tedious winter; seeing pride, envy, hatred, malice, with many other vices, nourish'd like darlings in the bosome of mankind; whilst love and mercy, truth and charity, did unregarded wander like strange pilgrims. Concluding with a seasonable exhortation to a Christian life. / Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (ports).  </extent>
+               <publicationStmt>
+                  <publisher>printed for P. Brooksby, J. Deacon, J. Blare, and J. Back,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As truth was passing through the open street,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>The GOOD CHRISTIANS Complaint;</head>
+            <head type="sub">OR, <hi>Poor</hi> CHARITY's <hi>Languiſhing Lamentation in a late long and tedious Winter;</hi>
+            </head>
+            <argument>
+               <p>Seeing <hi>Pride, Envy, Hatred, Malice,</hi> with many other Vices, Nouriſh'd like Darlings in the Boſome of Mankind; whilſt <hi>Love</hi> and <hi>Mercy, Truth</hi> and <hi>Chartity,</hi> did unregarded Wander like ſtrange Pilgrims. Concluding with a Seaſonable Exhortation to a Chriſtian Life.</p>
+            </argument>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>AS <hi>Truth</hi> was paſſing through the open Street,</l>
+               <l>It was his chance poor <hi>Charity</hi> to meet,</l>
+               <l>Diſtreſſed in the bitter Froſt and Snow,</l>
+               <l>And for Relief ſhe knew not where to go.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Grief</hi> ſate Enthron'd between her careful Brow<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>For there was few that wou'd her Cauſe eſpouſe;</l>
+               <l>Her Cheeks was nipp'd by ſharp and freezing Wind,</l>
+               <l>She ſighing ſaid, Is all the World unkind?</l>
+            </lg>
+            <lg>
+               <l>Where are thoſe Ancients that were wont to be</l>
+               <l>Such Benefactors to poor <hi>Charity?</hi>
+               </l>
+               <l>What, are they dead, and left none of their Race,</l>
+               <l>That are right willing to ſupply their place?</l>
+            </lg>
+            <lg>
+               <l>I find the Widow and the Fatherleſs,</l>
+               <l>With Grief and Sorrow languiſh in diſtreſs;</l>
+               <l>While thoſe that vaunt in rich Embroider'd Gold,</l>
+               <l>Will not look down their ſorrows to behold.</l>
+            </lg>
+            <lg>
+               <l>Thoſe who their lives in wanton pleaſures lead,</l>
+               <l>If they behold a Man who ſtands in need</l>
+               <l>Of preſent help, his Grief they will not mind;</l>
+               <l>O this we do by ſad experience find.</l>
+            </lg>
+            <lg>
+               <l>The Youthful Gallant ought to Honour Age,</l>
+               <l>The hoary Head, with Viſage Grave and Sage:</l>
+               <l>But yet inſtead of this, ſome ſwell with Pride,</l>
+               <l>And poor decripid Age ſcorn and deride.</l>
+            </lg>
+            <lg>
+               <l>Inſtead of giving them a due Reſpect,</l>
+               <l>On their gray Hairs Youth often will reflect;</l>
+               <l>And commonly reviling Language give,</l>
+               <l>As if on Earth they were not fit to live.</l>
+            </lg>
+            <lg>
+               <l>Inſtead of Love, which ought to rule and reign,</l>
+               <l>Juſt cauſe we have of Malice to complain:</l>
+               <l>Amongſt us here Revenge is ſweet we find,</l>
+               <l>To ſuch as thoſe who are to Wrath inclin'd.</l>
+            </lg>
+            <lg>
+               <l>One Neighbour hates to ſee another Thrive,</l>
+               <l>Behold how carefull are they to contrive,</l>
+               <l>By what ſlye means they may their Ruine prove;</l>
+               <l>And this is all for want of Chriſtian Love.</l>
+            </lg>
+            <lg>
+               <l>Some Men before they'll pardon an Offence,</l>
+               <l>Will ſeek Revenge, tho' at a large Expence:</l>
+               <l>But if the Lord of Love was ſo ſevere,</l>
+               <l>What would become of ſinful Mortals here?</l>
+            </lg>
+            <lg>
+               <l>If <hi>Charity</hi> amongſt the Sons of Men,</l>
+               <l>Was freely entertain'd, how happy then</l>
+               <l>Would Chriſtians be, they'd readily forgive</l>
+               <l>All Wrongs, and here in Love and Friendſhip live.</l>
+            </lg>
+            <lg>
+               <l>But Vice inſtead of Vertues Men receive,</l>
+               <l>Which cauſes <hi>Charity</hi> to ſigh and grieve;</l>
+               <l>And while ſhe utters forth her Mournful Cries,</l>
+               <l>Diſtilled Tears drop from her melting Eyes.</l>
+            </lg>
+            <lg>
+               <l>To ſee how <hi>Folly</hi> like a Darling dear,</l>
+               <l>Is hugg'd, embrac'd, and likewiſe cheriſht here,</l>
+               <l>Cloſe in the very Boſome of Mankind,</l>
+               <l>Whilſt <hi>Vertue</hi> can no Habitation find.</l>
+            </lg>
+            <lg>
+               <l>In Drunkenneſs ſome Perſons take delight,</l>
+               <l>With quaffing Cups in Taverns day and night.</l>
+               <l>Thus they their Wealth in lawleſs pleaſures ſpend,</l>
+               <l>While to the Poor they'll neither give nor lend.</l>
+            </lg>
+            <lg>
+               <l>Alas! we often hear the Drunkard boaſt,</l>
+               <l>Who can continue longeſt, ſwallow moſt;</l>
+               <l>But it were better we cou'd hear them ſay,</l>
+               <l>That for their Sins they love to Faſt and Pray.</l>
+            </lg>
+            <lg>
+               <l>For fear the Lord in wrath ſhou'd Vengeance take,</l>
+               <l>For why, the beſt of Men may chance to break</l>
+               <l>His juſt Commands, but how much more does he,</l>
+               <l>Who drowns his Soul in floods of Infamy.</l>
+            </lg>
+            <lg>
+               <l>That very Sin ſends thouſands to the Grave,</l>
+               <l>Their Lives the Learned Doctors cannot ſave;</l>
+               <l>Yet ſure I am, ſuch Deaths would never be,</l>
+               <l>If Men had for themſelves but <hi>Charity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Likewiſe the Sin of Pride does here bear ſway,</l>
+               <l>Who Peacock-like, does gaudy Plumes diſplay;</l>
+               <l>And at a Bluſh ſeems beautiful and fair,</l>
+               <l>Yet to the World ſhe proves a fatal Snare.</l>
+            </lg>
+            <lg>
+               <l>Some Perſons they to Pride are ſo inclin'd,</l>
+               <l>That night and day there's nothing elſe they mind;</l>
+               <l>That time that ſhould be ſpent in Righteouſneſs,</l>
+               <l>They here beſtow to prank a Modiſh Dreſs.</l>
+            </lg>
+            <lg>
+               <l>Forgetting that they are but Duſt and Clay,</l>
+               <l>Who notwithſtanding all their Garments Gay,</l>
+               <l>Muſt ſtoop to Death, and in a Grave he laid,</l>
+               <l>Where they ſhall ſoon a Feaſt for Worms be made.</l>
+            </lg>
+            <lg>
+               <l>Then what becomes of Grandieur, State and Pride,</l>
+               <l>And all the Glories of the World beſide?</l>
+               <l>They lye within the limits of a Shroud,</l>
+               <l>Then why ſhould Man, poor Mortal Man, be Proud?</l>
+            </lg>
+            <lg>
+               <l>Yet ſome againſt the Rules of ſolid Senſe,</l>
+               <l>Will nouriſh Pride, there's none ſhall them convince;</l>
+               <l>And many pounds on it will ſpend, before</l>
+               <l>They'd give one ſingle Penny to the Poor.</l>
+            </lg>
+            <lg>
+               <l>The very painted Harlot which they meet,</l>
+               <l>At ev'ry crick and corner of the Street,</l>
+               <l>They will ſupply with Gold and Silver bright,</l>
+               <l>Meerly for the leud pleaſures of the Night.</l>
+            </lg>
+            <lg>
+               <l>But ſee, does not her Footſteps lead to Death?</l>
+               <l>Is there not more than Poiſon in her breath?</l>
+               <l>To taint thy Soul with the falſe ſhows of Love,</l>
+               <l>Until ſhe does thy utter Ruin prove.</l>
+            </lg>
+            <lg>
+               <l>Thoſe that has run this looſe perfidious Race,</l>
+               <l>Has met with Death in ſhame and ſad diſgrace;</l>
+               <l>And did with melting Dying Tears declare,</l>
+               <l>That Harlots fond allurements brought them there.</l>
+            </lg>
+            <lg>
+               <l>Thus Varlets often bitterly complain,</l>
+               <l>That crying ſins has prov'd their fatal bare;</l>
+               <l>But who is he that ever did repent,</l>
+               <l>That he in Righteouſneſs his days had ſpent.</l>
+            </lg>
+            <lg>
+               <l>Complaining he had led too ſtrict a Life,</l>
+               <l>Too free from Malice, Envy, Spleen and Strife;</l>
+               <l>Too Sober, likewiſe too Religious here,</l>
+               <l>Or that a Conſcience had been kept too clear.</l>
+            </lg>
+            <lg>
+               <l>No, theſe are Comforts of a Dying Bed,</l>
+               <l>VVhen we can call to mind how we have led</l>
+               <l>A Life on Earth, ſeaſon'd with Chriſtian Grace,</l>
+               <l>VVhich will conduct us to a reſting place.</l>
+            </lg>
+            <lg>
+               <l>For this vain World with grief flows like a flood,</l>
+               <l>Here's little elſe but Wars and ſhedding Blood;</l>
+               <l>Contending ſtill for Superority.</l>
+               <l>This is for want of Love and Charity.</l>
+            </lg>
+            <lg>
+               <l>If we would War and laſting Glory win,</l>
+               <l>We muſt like Chriſtian Souldiers Conquer Sin,</l>
+               <l>The greateſt Enemy to all Mankind,</l>
+               <l>So ſhall we then Eternal Glory find.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> P. Brooksby, J. Deacon, J. Blare, <hi>and</hi> J. Back. <hi>1692.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
